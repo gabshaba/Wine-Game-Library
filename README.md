@@ -4,7 +4,4 @@ Olá! Este é meu primeiro projeto: Wine Game Library.  É um programa simples, 
 # Créditos e agradecimentos
 
 Este projeto foi desenvolvido por mim com o auxílio do ChatGPT, da OpenAI, que me ajudou durante o processo de criação, programação e resolução de problemas.
-
-Este é meu primeiro projeto como desenvolvedor e representa o início da minha jornada aprendendo Python e Linux.
-
 Agradeço à OpenAI e ao ChatGPT pelo apoio durante o desenvolvimento!
