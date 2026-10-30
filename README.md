@@ -1,6 +1,8 @@
 # Wine-Game-Library
 Olá! Este é meu primeiro projeto: Wine Game Library.  É um programa simples, mas útil, desenvolvido para Linux. Ele permite adicionar, remover e configurar jogos executáveis (.exe) que podem ser executados através do Wine.  Este projeto faz parte do início da minha jornada como desenvolvedor. Espero que gostem!
 
+# INSTALE O ARQUIVO ANTES (wine_game_library.py)
+
 # COISAS NECESSÁRIAS
 # CASO NÃO TENHA PYTHON E AS DEPENDENCIAS (obrigatorio), abra o terminal e digite:
    sudo apt update && sudo apt install python3 python3-pip python3-venv python3-tk git -y
